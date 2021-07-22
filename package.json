@@ -46,7 +46,7 @@
     "react-scripts": "^3.4.1",
     "seamless-immutable": "^7.1.4",
     "typescript": "^3.9.5",
-    "xlsx": "^0.16.2"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "cp ./.env.test ./.env && react-scripts start",
